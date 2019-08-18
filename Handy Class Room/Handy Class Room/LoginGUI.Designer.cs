@@ -44,7 +44,7 @@
             this.groupBox1.Controls.Add(this.button1);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.label1);
-            this.groupBox1.Location = new System.Drawing.Point(620, 143);
+            this.groupBox1.Location = new System.Drawing.Point(245, 162);
             this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
@@ -128,7 +128,7 @@
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "LoginGUI";
-            this.Size = new System.Drawing.Size(1942, 757);
+            this.Size = new System.Drawing.Size(1000, 757);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
