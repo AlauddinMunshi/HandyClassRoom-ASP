@@ -46,7 +46,7 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1942, 43);
+            this.panel1.Size = new System.Drawing.Size(1000, 43);
             this.panel1.TabIndex = 0;
             // 
             // button1
@@ -54,7 +54,7 @@
             this.button1.Dock = System.Windows.Forms.DockStyle.Right;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.button1.Location = new System.Drawing.Point(1893, 0);
+            this.button1.Location = new System.Drawing.Point(951, 0);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(49, 43);
             this.button1.TabIndex = 0;
@@ -66,7 +66,7 @@
             // 
             this.button2.Dock = System.Windows.Forms.DockStyle.Right;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Location = new System.Drawing.Point(1834, 0);
+            this.button2.Location = new System.Drawing.Point(892, 0);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(59, 43);
             this.button2.TabIndex = 1;
@@ -89,7 +89,7 @@
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel2.Location = new System.Drawing.Point(0, 43);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1942, 757);
+            this.panel2.Size = new System.Drawing.Size(1000, 757);
             this.panel2.TabIndex = 1;
             // 
             // loginGUI1
@@ -100,14 +100,14 @@
             this.loginGUI1.Location = new System.Drawing.Point(0, 0);
             this.loginGUI1.Margin = new System.Windows.Forms.Padding(4);
             this.loginGUI1.Name = "loginGUI1";
-            this.loginGUI1.Size = new System.Drawing.Size(1942, 757);
+            this.loginGUI1.Size = new System.Drawing.Size(1000, 757);
             this.loginGUI1.TabIndex = 0;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1942, 800);
+            this.ClientSize = new System.Drawing.Size(1000, 800);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
